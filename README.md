@@ -15,7 +15,6 @@ This repository showcases some of my hands-on projects that demonstrate real-wor
   - GitHub Actions workflow for automation
   - ECS Task Definition for container orchestration
 
-
 ---
 
 ### 2️⃣ AWS Infrastructure with Terraform
@@ -26,7 +25,6 @@ This repository showcases some of my hands-on projects that demonstrate real-wor
   - EC2 instance (nginx)
   - Secure Security Group
   - S3 bucket for storage
--
 
 ---
 
@@ -39,7 +37,6 @@ This repository showcases some of my hands-on projects that demonstrate real-wor
   - Configurable replicas/resources
   - Optional Ingress setup
 
-
 ---
 
 ### 4️⃣ Monitoring & Alerting with Prometheus + Grafana
@@ -49,7 +46,6 @@ This repository showcases some of my hands-on projects that demonstrate real-wor
   - System & container metrics collection
   - Grafana dashboards
   - Alertmanager for notifications (Email/Slack)
-
 
 ---
 
