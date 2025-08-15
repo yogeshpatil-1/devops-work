@@ -1,4 +1,4 @@
-# 🚀 DevOps & SRE Portfolio
+# 🚀 DevOps & SRE Projects
 
 Hi 👋 I’m a **DevOps/SRE Engineer** with 4+ years of experience in building **CI/CD pipelines, cloud infrastructure, Kubernetes, monitoring, and automation**.  
 This repository showcases some of my hands-on projects that demonstrate real-world DevOps practices.
