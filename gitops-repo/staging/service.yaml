@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-staging
+  labels:
+    app: hello-staging
+spec:
+  type: ClusterIP
+  selector:
+    app: hello-staging
+  ports:
+  - port: 80
+    targetPort: 80
+    protocol: TCP
+    name: http
